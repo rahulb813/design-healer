@@ -1,0 +1,11 @@
+
+=====  FONTS  =====
+
+Pacifico
+Palanquin
+Inria Sans
+
+=====  HEXES  =====
+Background Light Cyan - C7F5FF
+Dark Cyan - 4ADFFF
+Dark Blue(HyperLinks) - 001AFF
