@@ -6,6 +6,12 @@ Palanquin
 Inria Sans
 
 =====  HEXES  =====
-Background Light Cyan - C7F5FF
-Dark Cyan - 4ADFFF
+Background Light Cyan - DDF9FF
+Dark Cyan - 4ADFFF - 25%
 Dark Blue(HyperLinks) - 001AFF
+
+App Colors
+Light Pink - FFE7FA - 80%
+Light Blue - B5F2FF - 80%
+Light Yellow - FFFCDF - 80%
+Light Green - CFFFE2 - 80%
